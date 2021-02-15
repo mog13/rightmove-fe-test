@@ -50,3 +50,6 @@ export const orderOptions = [
     'asc',
     'desc'
 ];
+
+//since this is not a full application i am hard coding the API root, We could switch depending on environment or config.
+export const API_URL = '/api/'
